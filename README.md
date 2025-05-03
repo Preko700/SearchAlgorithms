@@ -1,7 +1,7 @@
 # Algoritmos de Búsqueda en C#
 
 [![Last Update](https://img.shields.io/badge/última%20actualización-2025--05--03-blue.svg)](https://github.com/Preko700/search-algorithms)
-[![GitHub](https://img.shields.io/github/license/Preko700/search-algorithms?color=blue)](https://github.com/Preko700/SearchAlgorithms)
+[![GitHub](https://img.shields.io/github/license/Preko700/SearchAlgorithms?color=blue)](https://github.com/Preko700/SearchAlgorithms)
 
 ## 📝 Descripción
 
